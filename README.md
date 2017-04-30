@@ -1,4 +1,4 @@
-# FINAL iOS PROJECT - Used IBM Watson Visual Recognition API & Twitter 
+# iOS PROJECT - Used IBM Watson Visual Recognition API & Twitter 
 ## https://www.ibm.com/watson/developercloud/visual-recognition.html
 ## IBM WATSON IOS SDK
 ## CATHAGE INSTALL via http://brew.sh <FRAMEWORK>
